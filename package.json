@@ -1,0 +1,7 @@
+{
+  "name": "grace-tests",
+  "version": "0.0.1",
+  "dependencies": {
+    "skai": "git+ssh://git@github.com:SkaiLab/Skai-for-Node.git"
+  }
+}
